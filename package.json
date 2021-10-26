@@ -1,0 +1,21 @@
+{
+  "name": "Model-View-Controller",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/GMMarshall27/Model-View-Controller.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/GMMarshall27/Model-View-Controller/issues"
+  },
+  "homepage": "https://github.com/GMMarshall27/Model-View-Controller#readme"
+}
